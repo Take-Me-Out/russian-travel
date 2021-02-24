@@ -1,0 +1,16 @@
+.place__link {
+  font-size: 18px;
+  line-height: 22px; /* identical to box height, or 122% */
+  text-decoration-line: underline;
+  color: #FFFFFF;
+  box-sizing: border-box;
+  padding: 12px 0px 0px 0px;
+  margin: 0px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .place__link {
+    padding: 12px 0px 0px 0px;
+    margin: 0px 16px;
+  }
+}
