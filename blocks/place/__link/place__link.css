@@ -6,6 +6,8 @@
   box-sizing: border-box;
   padding: 12px 0px 0px 0px;
   margin: 0px;
+  font-family: 'Inter';
+  font-style: normal;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {

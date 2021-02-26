@@ -5,6 +5,8 @@
   padding: 0px;
   margin: 0px 18px 0px 0px;
   text-decoration: none;
+  font-family: 'Inter';
+  font-style: normal;
 }
 
 .footer__link:last-child {
