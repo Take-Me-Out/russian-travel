@@ -1,0 +1,11 @@
+.intro__span-accent {
+  font-size: 12px;
+  line-height: 18px; /* or 150% */
+  color: #FFFFFF;
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+}
