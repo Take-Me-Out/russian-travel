@@ -1,32 +1,21 @@
 @font-face {
-  src: url(beermoney.woff2) format('woff2'),
-  url(beermoney.woff) format('woff');
+  src: url('./Inter-Regular.woff2') format('woff'),
+  url('./Inter-Regular.woff') format('woff');
   font-family: 'Inter';
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
 }
 
 @font-face {
-  src: url(./Inter-Bold.woff2) format('woff2'),
-  url(./Inter-Bold.woff) format('woff');
+  src: url('./Inter-Bold.woff2') format('woff2'),
+  url('./Inter-Bold.woff') format('woff');
   font-family: 'Inter';
-  font-style: normal;
-  font-weight: bold;
-}
-
-@font-face {
-  src: url(./Inter-Black.woff2) format('woff2'),
-  url(./Inter-Black.woff) format('woff');
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 900;
-}
-
-@font-face {
-  src: url(./Inter-ExtraBold.woff2) format('woff2'),
-  url(./Inter-ExtraBold.woff) format('woff');
-  font-family: 'Inter';
-  font-style: normal;
   font-weight: 700;
 }
 
+@font-face {
+  src: url('./Inter-Black.woff2') format('woff2'),
+  url('./Inter-Black.woff') format('woff');
+  font-family: 'Inter';
+  font-weight: 900;
+}
