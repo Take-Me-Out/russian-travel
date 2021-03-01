@@ -1,6 +1,6 @@
 # Проект 3: Путешествие по России  
 
-Ссылка на проект: [https://github.com/Take-Me-Out/russian-travel]
+Ссылка на проект: [https://take-me-out.github.io/russian-travel/index.html]
 
 ## Задачи, решаемые в проекте:
 
