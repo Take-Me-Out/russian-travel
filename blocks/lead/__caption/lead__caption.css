@@ -11,7 +11,7 @@
   left: calc((100% - 984px)/2);
   bottom: 92px;
   font-style: normal;
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {

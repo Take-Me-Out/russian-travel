@@ -1,0 +1,8 @@
+.header__lang-link_notunderlined {
+  text-decoration: none;
+  margin-right: 0px;
+}
+
+.header__lang-link_notunderlined:hover {
+  text-decoration: none;
+}

@@ -6,8 +6,16 @@
   box-sizing: border-box;
   padding: 12px 0px 0px 0px;
   margin: 0px;
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
+  opacity: 1;
+  transition: ease 0.2s opacity;
+  outline: none;
+}
+}
+
+.place__link:hover {
+  opacity: 0.8
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {

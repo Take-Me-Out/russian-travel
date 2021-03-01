@@ -1,6 +1,6 @@
 .lead__title {
   font-size: 96px;
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   line-height: 100px; /* or 104% */
   color: white;

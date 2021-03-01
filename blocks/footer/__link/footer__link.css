@@ -5,8 +5,15 @@
   padding: 0px;
   margin: 0px 18px 0px 0px;
   text-decoration: none;
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
+  transition: ease 0.2s opacity;
+  opacity: 1;
+  outline: none;
+}
+
+.footer__link:hover {
+  opacity: 0.8;
 }
 
 .footer__link:last-child {

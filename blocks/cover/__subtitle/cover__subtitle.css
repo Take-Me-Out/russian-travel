@@ -7,8 +7,10 @@
   margin: 0px;
   max-width: 360px;
   text-align: center;
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
+  position: relative;
+  z-index: 2;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
