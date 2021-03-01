@@ -12,7 +12,6 @@
   transition: ease 0.2s opacity;
   outline: none;
 }
-}
 
 .place__link:hover {
   opacity: 0.8
