@@ -1,7 +1,6 @@
 # Проект 3: Путешествие по России / Projekt č. 3. Cesta Ruskem  
 
-Ссылка на проект: [https://take-me-out.github.io/russian-travel/index.html]
-Odkaz na projekt: [https://take-me-out.github.io/russian-travel/index.html]
+Ссылка на проект / Odkaz na projekt: [https://take-me-out.github.io/russian-travel/index.html]
 
 ## Задачи, решаемые в проекте: / Dosažené cíle
 
