@@ -1,18 +1,18 @@
-# Проект 3: Путешествие по России  
+# Проект 3: Путешествие по России / Projekt č. 3. Cesta Ruskem  
 
 Ссылка на проект: [https://take-me-out.github.io/russian-travel/index.html]
+Odkaz na projekt: [https://take-me-out.github.io/russian-travel/index.html]
 
-## Задачи, решаемые в проекте:
+## Задачи, решаемые в проекте: / Dosažené cíle
 
-* Использовать гриды
-* Впервые сверстать сайт с адаптивным дизайном
-* На примере Figma поработать с макетом, который обычно присылают дизайнеры
-* Поработать с изображением в формате svg
+* Использовать гриды / Použít CSS gridy
+* Впервые сверстать сайт с адаптивным дизайном / Vytvořit adaptivní design
+* На примере Figma поработать с макетом, который обычно присылают дизайнеры / Zachovat design zaslaný prostřednictvím Figmy
+* Поработать с изображением в формате svg / Použít obrázky ve formátu .svg
 
-## Описание проекта:
+## Описание проекта: / Popis projektu
 Сайт о путешествиях по России. При его создании использовались технологии HTML и CSS (флексбоксы, гриды и другие). Возможны проблемы с открытием сайта в IE, Opera mini и старых версиях браузеров.
 Подойдёт для любого экрана шире 320 пикселей.
 
-### Планы:
-1. Исправить замечания после проверки ревьюером
-2. Настроить сайт под IE с помощью префиксов
+Web o cestování Ruskem, při jehož vytvoření byly použity technologie HTML a CSS (včetně flexboxů a gridů). Není kompatibilní s IE, Operou mini a staršími verzemi prohlížečů.
+Je vhodný pro jakoukoli obrazovku, která je širší než 320 px.
